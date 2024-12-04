@@ -13,8 +13,11 @@ redirect_from:
 Education
 ======
 * Ph.D. in Applied Economics, Renmin University of China, 2027 (expected)
+  *  Lead the China Residential Energy Consumption Survey 2023 [(CRECS)](http://crecs.ruc.edu.cn/jj/gyCRECS/index.htm)
 * M.S. in Applied Economics, Renmin University of China, 2024
+  * Recipient of the National Scholarship for Postgraduates and Outstanding Graduate Award of Beijing
 * B.S. in Finance, University of International Business and Economics, 2022
+  * Awarded 1st-class academic scholarship, dual major in Spanish
 
   
 Skills
@@ -32,6 +35,24 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Working Papers
+======
+* Air Quality Benefits of Clean Winter Heating Policies in China: New Evidence from Machine Learning, with
+Yuheng Zhao and Lunyu Xie. [Slides](https://github.com/TianhuaZou00/clean_heating/blob/main/slides_cleaning_heating.pdf)
+* Cooling Inequality on a Hotter Planet, with Lunyu Xie. [Slides](https://github.com/TianhuaZou00/cooling_inequality_on_a_hotter_planet/blob/main/slides_cooling_inequality_on_a_hotter_planet.pdf)
+* Electrification and Rural Labor Supply: Evidence from the ’Three-Phase Power Access for Every Village’ Policy,
+with Lunyu Xie.
+* The Long-Term Impact of China’s Aid and Investment in Africa, with Yuheng Zhao and Huning Wan.
+
+Work in Progress
+======
+* Willingness to Pay (WTP) for Electric Vehicle (EV) Attributes, with a Focus on Brand Premiums and Elasticity to
+Oil and Electricity Prices.
+* The Role of Incomplete Information, Misbeliefs, and Inattention in EV Purchases: An Experiment Using
+Information RCTs.
+* Reanalysis of the Environmental and Health Impacts of EVs in the Context of New Developments in China.
+* Rebound Effect: The Influence of Decreasing Marginal Costs on Driving Behavior.
 
 Invited Conference Presentations
 ======
