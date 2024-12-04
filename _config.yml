@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Tianhua Zou"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Tianhua Zou /n(邹恬华)"
+  name             : "Tianhua Zou"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student at Renmin University of China (RUC)"
   location         : "School of Applied Economics, Renmin University of China, 59 Zhongguancun Street, Beijing, 100872, China"
