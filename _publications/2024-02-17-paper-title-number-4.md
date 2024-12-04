@@ -1,7 +1,7 @@
 ---
 title: "Air Quality Benefits of Clean Winter Heating Policies in China: New Evidence from Machine Learning"
 collection: publications
-category: working paper
+category: conference
 permalink: /publication/2024-02-17-paper-title-number-4
 date: 2024-10-15
 venue: #'GitHub Journal of Bugs'
