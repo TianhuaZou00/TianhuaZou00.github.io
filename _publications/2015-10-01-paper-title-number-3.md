@@ -7,7 +7,6 @@ date: 2024-03-15
 venue: 'Environmental and Resource Economics'
 slidesurl: #'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://doi.org/10.1007/s10640-024-00852-3'
-citation: 'Lunyu Xie, Tianhua Zou, Joshua Linn, Haosheng Yan* (2024). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1–36.'
+citation: 'Lunyu Xie, Tianhua Zou, Joshua Linn, Haosheng Yan* (2024). &quot;Can Building Subway Systems Improve Air Quality? New Evidence from Multiple Cities and Machine Learning.&quot; <i>Environmental and Resource Economics</i>. 1–36.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
