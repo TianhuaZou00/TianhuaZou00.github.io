@@ -11,54 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Applied Economics, Renmin University of China, 2027 (expected)
+* M.S. in Applied Economics, Renmin University of China, 2024
+* B.S. in Finance, University of International Business and Economics, 2022
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming:
+  * Stata (specialized in data visualization)
+  * Python (web scraping)
+  * R (machine learning)
+* Languages:
+  * TOFEL (102), CET-6 (590)
+  * Dual major in Spanish
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Invited Conference Presentations
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 11th International Conference on the Chinese Economy: Past, Present, and Future, December 2024, Suzhou.
+* 9th Annual Workshop of the Sustainable Energy Transitions Initiative, June 2024, Online.
+* Liaoning University International Conference, June 2024, Shenyang.
+* 10th Xiangzhang Annual Conference, April 2024, Nanjing.
+* Xiangjiang River Forum on Economics, Finance, and Management for Young Scholars, August 2023, Changsha.
+* 11th Annual National Undergraduate Economics Conference, May 2021, Online.
+* 3rd National Development Youth Forum (National School of Development, Peking University), April 2021,
+Beijing
