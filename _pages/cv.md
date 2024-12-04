@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+* [Latest CV in PDF format](https://github.com/TianhuaZou00/TianhuaZou00.github.io/blob/master/CV_TianhuaZou.pdf)
 
 Education
 ======
