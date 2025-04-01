@@ -1,5 +1,5 @@
 ---
-title: "Can Building Subway Systems Improve Air Quality? New Evidence from Multiple Cities and Machine Learning"
+title: "Can Building Subway Systems Improve Air Quality? New Evidence from Multiple Cities and Machine Learning (2024 Outstanding Publication in ERE)"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
