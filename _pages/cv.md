@@ -56,6 +56,7 @@ Information RCTs.
 
 Invited Conference Presentations
 ======
+* 2025 Chinese Economists Society (CES) China Annual Conference, July 2025 (scheduled), Guangzhou.
 * 11th International Conference on the Chinese Economy: Past, Present, and Future, December 2024, Suzhou.
 * 9th Annual Workshop of the Sustainable Energy Transitions Initiative, June 2024, Online.
 * Liaoning University International Conference, June 2024, Shenyang.
