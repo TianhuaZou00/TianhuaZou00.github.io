@@ -38,7 +38,7 @@ Publications
 
 Working Papers
 ======
-* Air Quality Benefits of Clean Winter Heating Policies in China: New Evidence from Machine Learning, with
+* “Soft Landing” in Energy Transition: Evidence from China's Clean Winter Heating Policy, with
 Yuheng Zhao and Lunyu Xie. [Slides](https://github.com/TianhuaZou00/clean_heating/blob/main/slides_cleaning_heating.pdf)
 * Cooling Inequality on a Hotter Planet, with Lunyu Xie. [Slides](https://github.com/TianhuaZou00/cooling_inequality_on_a_hotter_planet/blob/main/slides_cooling_inequality_on_a_hotter_planet.pdf)
 * Electrification and Rural Labor Supply: Evidence from the ’Three-Phase Power Access for Every Village’ Policy,
