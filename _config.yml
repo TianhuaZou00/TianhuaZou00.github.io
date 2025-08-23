@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile_zth2.png"
-  name             : "Tianhua Zou"
+  name             : "Tianhua Zou (邹恬华)"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. student at Renmin University of China (RUC)"
+  bio              : "Ph.D. candidate at Renmin University of China (RUC)"
   location         : "School of Applied Economics, Renmin University of China, 59 Zhongguancun Street, Beijing, 100872, China"
   employer         : 
   uri              : # URL
