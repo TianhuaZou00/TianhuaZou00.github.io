@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-<?* [Latest CV in PDF format](https://github.com/TianhuaZou00/TianhuaZou00.github.io/blob/master/CV_TianhuaZou.pdf)>
 
 Education
 ======
@@ -41,20 +40,12 @@ Publications
 Working Papers
 ======
 * “Soft Landing” in Energy Transition: Evidence from China's Clean Winter Heating Policy, with
-Yuheng Zhao and Lunyu Xie. <?[Slides](https://github.com/TianhuaZou00/clean_heating/blob/main/slides_cleaning_heating.pdf)>
-* Cooling Inequality on a Hotter Planet, with Lunyu Xie. <?[Slides](https://github.com/TianhuaZou00/cooling_inequality_on_a_hotter_planet/blob/main/slides_cooling_inequality_on_a_hotter_planet.pdf)>
+Yuheng Zhao and Lunyu Xie.
+* Cooling Inequality on a Hotter Planet, with Lunyu Xie.
 * Electrification and Rural Labor Supply: Evidence from the ’Three-Phase Power Access for Every Village’ Policy,
 with Lunyu Xie.
 * The Long-Term Impact of China’s Aid and Investment in Africa, with Yuheng Zhao and Huning Wan.
 
-<?Work in Progress
-======
-* Willingness to Pay (WTP) for Electric Vehicle (EV) Attributes, with a Focus on Brand Premiums and Elasticity to
-Oil and Electricity Prices.
-* The Role of Incomplete Information, Misbeliefs, and Inattention in EV Purchases: An Experiment Using
-Information RCTs.
-* Reanalysis of the Environmental and Health Impacts of EVs in the Context of New Developments in China.
-* Rebound Effect: The Influence of Decreasing Marginal Costs on Driving Behavior.>
 
 Invited Conference Presentations
 ======
