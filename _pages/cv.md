@@ -39,7 +39,7 @@ Publications
 
 Working Papers
 ======
-* “Soft Landing” in Energy Transition: Evidence from China's Clean Winter Heating Policy, with
+* Soft Landing of the Giant: Informal Local Adaptations in China’s Clean Heating Transition, with
 Yuheng Zhao and Lunyu Xie.
 * Cooling Inequality on a Hotter Planet, with Lunyu Xie.
 * Electrification and Rural Labor Supply: Evidence from the ’Three-Phase Power Access for Every Village’ Policy,
