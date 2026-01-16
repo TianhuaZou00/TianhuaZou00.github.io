@@ -39,7 +39,7 @@ Publications
 
 Working Papers
 ======
-* Soft Landing of the Giant: Informal Local Adaptations in China’s Clean Heating Transition, with
+* A Soft Landing? Informal Local Adaptations in China’s Clean Heating Transition, with
 Yuheng Zhao and Lunyu Xie.
 * Cooling Inequality on a Hotter Planet, with Lunyu Xie.
 * Electrification and Rural Labor Supply: Evidence from the ’Three-Phase Power Access for Every Village’ Policy,
@@ -49,7 +49,7 @@ with Lunyu Xie.
 
 Invited Conference Presentations
 ======
-* Economics and Politics of Inequality in China Conference, Feburary 2026, Manchester
+* Economics and Politics of Inequality in China Conference, February 2026, Manchester
 * 2025 Chinese Economists Society (CES) China Annual Conference, July 2025, Guangzhou.
 * 11th International Conference on the Chinese Economy: Past, Present, and Future, December 2024, Suzhou.
 * 9th Annual Workshop of the Sustainable Energy Transitions Initiative, June 2024, Online.
