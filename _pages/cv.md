@@ -39,12 +39,15 @@ Publications
 
 Working Papers
 ======
-* A Soft Landing? Informal Local Adaptations in China’s Clean Heating Transition, with
-Yuheng Zhao and Lunyu Xie.
-* Cooling Inequality on a Hotter Planet, with Lunyu Xie.
-* Electrification and Rural Labor Supply: Evidence from the ’Three-Phase Power Access for Every Village’ Policy,
-with Lunyu Xie.
-* The Long-Term Impact of China’s Aid and Investment in Africa, with Yuheng Zhao and Huning Wan.
+* Cooling Inequality on a Hotter Planet, with Lunyu Xie and Guilan Li.
+* How Local Discretion Shapes the Effects of a Central Mandate: Evidence from China’s Clean Heating Policy, with Lunyu Xie and Yuheng Zhao.
+
+Work in Progress
+======
+* A Second Pair of Hands: Intergenerational Co-parenting and the Effects of Parental Training on Early Childhood Development in Rural China, with Scott Rozelle and Lei Wang.
+* Housing Structure, Network Externalities, and Optimal Subsidy Dynamics, with Mengjia Hu, Joshua Linn, and Lunyu Xie.
+* Information provision and electric-vehicle adoption: a randomized field experiment.
+* The Long-Term Impact of China’s Aid and Investment in Africa, with Huning Wan, Lunyu Xie, and Yuheng Zhao.
 
 
 Invited Conference Presentations
