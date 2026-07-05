@@ -40,13 +40,13 @@ Publications
 
 Working Papers
 ======
-* Cooling Inequality on a Hotter Planet, with Lunyu Xie and Guilan Li.
-* How Local Discretion Shapes the Effects of a Central Mandate: Evidence from China’s Clean Heating Policy, with Lunyu Xie and Yuheng Zhao.
+* Cooling Inequality on a Hotter Planet, with [Lunyu Xie](https://ae.ruc.edu.cn/home/People/Faculty/SortbyDepartment/EnergyEconomics/XieLunyu/index.htm) and Guilan Li.
+* How Local Discretion Shapes the Effects of a Central Mandate: Evidence from China’s Clean Heating Policy, with [Lunyu Xie](https://ae.ruc.edu.cn/home/People/Faculty/SortbyDepartment/EnergyEconomics/XieLunyu/index.htm) and [Yuheng Zhao](https://yuhengzhaobu.github.io/).
 
 Work in Progress
 ======
-* A Second Pair of Hands: Intergenerational Co-parenting and the Effects of Parental Training on Early Childhood Development in Rural China, with Scott Rozelle and Lei Wang.
-* Housing Structure, Network Externalities, and Optimal Subsidy Dynamics, with Mengjia Hu, Joshua Linn, and Lunyu Xie.
+* A Second Pair of Hands: Intergenerational Co-parenting and the Effects of Parental Training on Early Childhood Development in Rural China, with [Scott Rozelle](https://sccei.fsi.stanford.edu/reap/people/scott_rozelle) and [Lei Wang](https://ibs.snnu.edu.cn/info/2602/20425.htm).
+* Housing Structure, Network Externalities, and Optimal Subsidy Dynamics, with [Mengjia Hu](https://www.nber.org/people/mengjia_hu_1), [Joshua Linn](https://sites.google.com/umd.edu/joshualinn/home), and [Lunyu Xie](https://ae.ruc.edu.cn/home/People/Faculty/SortbyDepartment/EnergyEconomics/XieLunyu/index.htm).
 * Information provision and electric-vehicle adoption: a randomized field experiment.
 
 
