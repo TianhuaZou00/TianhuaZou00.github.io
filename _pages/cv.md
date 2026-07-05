@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="{{ base_path }}/CV_TianhuaZou.pdf" target="_blank" rel="noopener"><strong>Download the latest CV (PDF)</strong></a>
+
 Education
 ======
 * Ph.D. in Applied Economics, Renmin University of China, 2027 (expected)
@@ -18,7 +20,6 @@ Education
 * M.S. in Applied Economics, Renmin University of China, 2024
   * Recipient of the National Scholarship for Postgraduates and Outstanding Graduate Award of Beijing
 * B.S. in Finance, University of International Business and Economics, 2022
-  * Awarded 1st-class academic scholarship, dual major in Spanish
 
   
 Skills
@@ -30,7 +31,7 @@ Skills
   * R (machine learning)
 * Languages:
   * English (fluent, TOEFL 102)
-  * Spanish (beginner, dual major in Spanish)
+  * Spanish (beginner)
 
 Publications
 ======
