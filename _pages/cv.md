@@ -20,12 +20,16 @@ Education
 
 Experience
 ======
-* Lead the China Residential Energy Consumption Survey [(CRECS)](http://crecs.ruc.edu.cn/jj/gyCRECS/index.htm)
-* Conducting research on sustainable development and rural education, Stanford University
+I am actively involved in the following labs:
 
-Awards
+* Sustainable Development and Poverty Alleviation Lab, School of Applied Economics, Renmin University of China (with Prof. [Lunyu Xie](https://ae.ruc.edu.cn/home/People/Faculty/SortbyDepartment/EnergyEconomics/XieLunyu/index.htm))
+* Lead the China Residential Energy Consumption Survey [(CRECS)](http://crecs.ruc.edu.cn/jj/gyCRECS/index.htm)
+* [Rural Education Action Program (REAP)](https://sccei.fsi.stanford.edu/reap), Stanford Center on China's Economy and Institutions (SCCEI), Stanford University (with Prof. [Scott Rozelle](https://sccei.fsi.stanford.edu/reap/people/scott_rozelle))
+* [Economics for Sustainability and Energy Transition (eSET)](https://eset.stanford.edu/), Doerr School of Sustainability, Stanford University (with Prof. [Shanjun Li](https://shanjunli6.github.io/))
+
+Selected Awards
 ======
-* National Scholarship for Postgraduates and Outstanding Graduate Award of Beijing
+* National Scholarship for Postgraduates, Outstanding Graduates of Beijing
 
 Publications
 ======
