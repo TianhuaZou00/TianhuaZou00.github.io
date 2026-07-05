@@ -10,9 +10,16 @@ redirect_from:
 
 Hi! I am Tianhua Zou (邹恬华), a Ph.D. candidate in Applied Economics at Renmin University of China (RUC), currently a visiting student researcher at the Stanford Center on China's Economy and Institutions (SCCEI).
 
-My research centers on sustainable development, at the intersection of two agendas: fostering development in less-developed regions and among disadvantaged populations, and advancing environmental policy and the energy transition.
+My research centers on sustainable development, at the intersection of:
 
-To address these questions, I draw on high-quality microdata — with hands-on experience designing and managing large-scale household surveys and randomized controlled trials (RCTs) — and on frontier causal-inference methods increasingly powered by machine learning and large language models (LLMs). I am also an enthusiastic user and advocate of AI for economics, and I actively share practical experience on integrating AI agents into the research workflow.
+- development in less-developed regions and disadvantaged populations;
+- environmental policy and the energy transition.
+
+I approach these questions with:
+
+- high-quality microdata — large-scale household surveys and RCTs;
+- frontier causal inference powered by machine learning and LLMs;
+- AI for economics, as an active user and advocate of AI agents in research.
 
 I am actively involved in the following labs:
 
