@@ -14,24 +14,18 @@ redirect_from:
 Education
 ======
 * Ph.D. in Applied Economics, Renmin University of China, 2027 (expected)
-  *  Lead the China Residential Energy Consumption Survey 2023 [(CRECS)](http://crecs.ruc.edu.cn/jj/gyCRECS/index.htm)
 * Visiting Student Researcher, Stanford University, 2025-2026 (expected)
-  *  Conducting research on sustainable development and rural education
 * M.S. in Applied Economics, Renmin University of China, 2024
-  * Recipient of the National Scholarship for Postgraduates and Outstanding Graduate Award of Beijing
 * B.S. in Finance, University of International Business and Economics, 2022
 
-  
-Skills
+Experience
 ======
-* Programming:
-  * Claude Code (active user; invited to share usage experience at multiple universities)
-  * Stata (specialized in data visualization)
-  * Python (web scraping, textual analysis with LLMs)
-  * R (machine learning)
-* Languages:
-  * English (fluent, TOEFL 102)
-  * Spanish (beginner)
+* Lead the China Residential Energy Consumption Survey [(CRECS)](http://crecs.ruc.edu.cn/jj/gyCRECS/index.htm)
+* Conducting research on sustainable development and rural education, Stanford University
+
+Awards
+======
+* National Scholarship for Postgraduates and Outstanding Graduate Award of Beijing
 
 Publications
 ======
