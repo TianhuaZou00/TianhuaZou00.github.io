@@ -17,10 +17,16 @@ redirect_from:
 .research-page .venue { font-style: italic; }
 .research-page details { margin-top: 0.45em; }
 .research-page summary {
-  cursor: pointer; display: inline-block;
+  cursor: pointer; display: inline-block; list-style: none;
   font-weight: 600; font-size: 0.88em; letter-spacing: 0.02em;
-  color: #2a7ae2; outline: none; -webkit-user-select: none; user-select: none;
+  color: #2f7f93; outline: none; -webkit-user-select: none; user-select: none;
 }
+.research-page summary::-webkit-details-marker { display: none; }
+.research-page summary::before {
+  content: "\25B6"; display: inline-block; margin-right: 0.4em;
+  font-size: 0.85em; transition: transform 0.15s ease;
+}
+.research-page details[open] > summary::before { transform: rotate(90deg); }
 .research-page summary:hover { text-decoration: underline; }
 .research-page .abstract {
   margin: 0.55em 0 0.2em 0; padding: 0.55em 0.9em;
@@ -32,11 +38,6 @@ redirect_from:
   border-bottom: 1px solid #eee; font-size: 1.35em;
 }
 .research-page .corr-note { margin-top: 1.6em; font-size: 0.9em; }
-@media (prefers-color-scheme: dark) {
-  .research-page .abstract { color: #cfcfcf; border-left-color: #444; }
-  .research-page summary { color: #6ea8fe; }
-  .research-page h2 { border-bottom-color: #333; }
-}
 </style>
 
 <div class="research-page">
