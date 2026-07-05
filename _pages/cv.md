@@ -27,6 +27,7 @@ Skills
   * Stata (specialized in data visualization)
   * Python (web scraping, textual analysis with LLMs)
   * R (machine learning)
+  * Claude Code (power user; invited to share usage experience at multiple universities)
 * Languages:
   * TOFEL (102), CET-6 (590)
   * Dual major in Spanish
@@ -47,12 +48,10 @@ Work in Progress
 * A Second Pair of Hands: Intergenerational Co-parenting and the Effects of Parental Training on Early Childhood Development in Rural China, with Scott Rozelle and Lei Wang.
 * Housing Structure, Network Externalities, and Optimal Subsidy Dynamics, with Mengjia Hu, Joshua Linn, and Lunyu Xie.
 * Information provision and electric-vehicle adoption: a randomized field experiment.
-* The Long-Term Impact of China’s Aid and Investment in Africa, with Huning Wan, Lunyu Xie, and Yuheng Zhao.
 
 
-Invited Conference Presentations
+Conference Presentations
 ======
-* Economics and Politics of Inequality in China Conference, February 2026, Manchester
 * 2025 Chinese Economists Society (CES) China Annual Conference, July 2025, Guangzhou.
 * 11th International Conference on the Chinese Economy: Past, Present, and Future, December 2024, Suzhou.
 * 9th Annual Workshop of the Sustainable Energy Transitions Initiative, June 2024, Online.
