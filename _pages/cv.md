@@ -24,10 +24,10 @@ Education
 Skills
 ======
 * Programming:
+  * Claude Code (power user; invited to share usage experience at multiple universities)
   * Stata (specialized in data visualization)
   * Python (web scraping, textual analysis with LLMs)
   * R (machine learning)
-  * Claude Code (power user; invited to share usage experience at multiple universities)
 * Languages:
   * TOFEL (102), CET-6 (590)
   * Dual major in Spanish
