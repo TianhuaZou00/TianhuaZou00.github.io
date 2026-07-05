@@ -60,5 +60,5 @@ Conference Presentations
 * 10th Xiangzhang Annual Conference, April 2024, Nanjing.
 * Xiangjiang River Forum on Economics, Finance, and Management for Young Scholars, August 2023, Changsha.
 * 11th Annual National Undergraduate Economics Conference, May 2021, Online.
-* 3rd National Development Youth Forum (National School of Development, Peking University), April 2021,
+* 3rd National Development Youth Forum (NSD, Peking University), April 2021,
 Beijing
