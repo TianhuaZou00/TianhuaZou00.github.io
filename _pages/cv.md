@@ -24,7 +24,7 @@ Education
 Skills
 ======
 * Programming:
-  * Claude Code (power user; invited to share usage experience at multiple universities)
+  * Claude Code (active user; invited to share usage experience at multiple universities)
   * Stata (specialized in data visualization)
   * Python (web scraping, textual analysis with LLMs)
   * R (machine learning)
