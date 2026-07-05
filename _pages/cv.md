@@ -29,7 +29,7 @@ Skills
   * Python (web scraping, textual analysis with LLMs)
   * R (machine learning)
 * Languages:
-  * TOFEL (102), CET-6 (590)
+  * TOEFL (102), CET-6 (590)
   * Dual major in Spanish
 
 Publications
