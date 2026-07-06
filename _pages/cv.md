@@ -23,7 +23,7 @@ Experience
 I am actively involved in the following labs:
 
 * Sustainable Development and Poverty Alleviation Lab, School of Applied Economics, Renmin University of China (with Prof. [Lunyu Xie](https://ae.ruc.edu.cn/home/People/Faculty/SortbyDepartment/EnergyEconomics/XieLunyu/index.htm))
-* Lead the China Residential Energy Consumption Survey [(CRECS)](http://crecs.ruc.edu.cn/jj/gyCRECS/index.htm)
+* China Residential Energy Consumption Survey [(CRECS)](http://crecs.ruc.edu.cn/jj/gyCRECS/index.htm) Lab, Department of Energy Economics, Renmin University of China (led the 2023 round)
 * [Rural Education Action Program (REAP)](https://sccei.fsi.stanford.edu/reap), Stanford Center on China's Economy and Institutions (SCCEI), Stanford University (with Prof. [Scott Rozelle](https://sccei.fsi.stanford.edu/reap/people/scott_rozelle))
 * [Economics for Sustainability and Energy Transition (eSET)](https://eset.stanford.edu/), Doerr School of Sustainability, Stanford University (with Prof. [Shanjun Li](https://shanjunli6.github.io/))
 
@@ -39,7 +39,7 @@ Publications
 
 Working Papers
 ======
-* Cooling Inequality on a Hotter Planet, with [Lunyu Xie](https://ae.ruc.edu.cn/home/People/Faculty/SortbyDepartment/EnergyEconomics/XieLunyu/index.htm) and Guilan Li.
+* Cooling Inequality on a Hotter Planet, with [Lunyu Xie](https://ae.ruc.edu.cn/home/People/Faculty/SortbyDepartment/EnergyEconomics/XieLunyu/index.htm).
 * How Local Discretion Shapes the Effects of a Central Mandate: Evidence from China’s Clean Heating Policy, with [Lunyu Xie](https://ae.ruc.edu.cn/home/People/Faculty/SortbyDepartment/EnergyEconomics/XieLunyu/index.htm) and [Yuheng Zhao](https://yuhengzhaobu.github.io/).
 
 Work in Progress
